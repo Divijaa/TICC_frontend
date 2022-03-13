@@ -13,6 +13,11 @@
   margin: 0;
   margin-bottom: 100px;
 }
+.services-colour a{
+  background: linear-gradient(90deg, #b80f0a -2.58%, #920000 93.47%) !important; 
+  text-decoration: none;
+}
+
 @media only screen and (max-width: 400px) {
   .disp-none {
     display: none;
