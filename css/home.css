@@ -79,6 +79,10 @@
   background: linear-gradient(90deg, #b80f0a -2.58%, #920000 93.47%);
   text-decoration: none;
 }
+.services-colour a{
+  background: linear-gradient(90deg, #b80f0a -2.58%, #920000 93.47%);
+  text-decoration: none;
+}
 .announcements .banner {
   top: 50px;
   right: 0;
